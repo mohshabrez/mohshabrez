@@ -10,10 +10,12 @@ print(m/11)
 print(m%2)
 
 s=21
+# s is the value n caluclation operations
 print(s)
 print(s*3)
 print(s%2)
 
+#m n s are the values n the values perform the caluclation operations
 
 m=77
 s=21
