@@ -1,6 +1,7 @@
 
 #!/usr/bin/python3
 m=77
+#m is the value n here we give the caluclation operations
 print(m)
 print(m+5)
 print(m-22)
