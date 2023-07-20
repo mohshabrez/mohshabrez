@@ -1,4 +1,4 @@
-[![MasterHead]![1689602096046](https://github.com/mohshabrez/mohshabrez/assets/31725739/ed050e7b-d4b7-45aa-8ae5-18d521c6a917)
+[1689602096046](https://github.com/mohshabrez/mohshabrez/assets/31725739/ed050e7b-d4b7-45aa-8ae5-18d521c6a917)
 ](https://shabrezs-port.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shabrez G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
