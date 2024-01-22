@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **colloberting software dev's for my upcoming project**
 
-- 👨‍💻 All of my projects are available at [https://shabrezs-port.netlify.app/](https://shabrezs-port.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://shabrezs-port.netlify.app/](https://shabrez-portfolios.netlify.app/)
 
 - 📝 I regularly write articles on [https://shabrezdev.hashnode.dev/](https://shabrezdev.hashnode.dev/)
 
@@ -22,8 +22,9 @@
 
 - 📫 How to reach me **sheikshabrez90@gmail.com**
 
-- 📄 Know about my experiences ([G_Shabrez_Resume_05-09-2023-19-28-06.pdf](https://github.com/mohshabrez/mohshabrez/files/12524455/G_Shabrez_Resume_05-09-2023-19-28-06.pdf)
-)
+- 📄 Know about my experiences ([G_Shabrez_Resume_05-09-2023-19-28-06.pdf]()
+)[Shabrez-Resume.pdf](https://github.com/mohshabrez/mohshabrez/files/14006029/Shabrez-Resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
