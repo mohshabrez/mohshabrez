@@ -1,7 +1,7 @@
 [![1689602096046](https://github.com/mohshabrez/mohshabrez/assets/31725739/ed050e7b-d4b7-45aa-8ae5-18d521c6a917)
 ](https://shabrezs-port.netlify.app/)
 <h1 align="center">Hi 👋, I'm Shabrez G</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohshabrez&label=Profile%20views&color=0e75b6&style=flat" alt="mohshabrez" /> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native, Next.js, TypeScrpit, DSA**
 
-- 👯 I’m looking to collaborate on **Front End Projects**
+- 👯 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **colloberting software dev's for my upcoming project**
 
